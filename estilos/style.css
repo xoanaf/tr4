@@ -1,0 +1,190 @@
+#nav-a
+{
+    text-decoration: none;
+    color: black;
+}
+
+a:visited {  		
+    color: rgb(255, 255, 255);  	
+    text-decoration: none;
+ }  	  	
+
+.menu-topo
+{
+    background-color: rgba(24, 36, 86, 0.916);
+    width: 50%;
+    height: 60px;
+    position: absolute;
+    margin-left: 170px;
+    margin-top: 10px;
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: white;
+}
+
+#botao-home
+{
+    width: 350px;
+    height: 40px;
+    padding: 5px;
+    font-size: 35px;
+    text-decoration: none;
+}
+
+#botao-contato
+{
+    width: 350px;
+    height: 40px;
+    padding: 20px;
+    font-size: 35px;
+    text-decoration: none;
+    margin-left: 300px;
+    margin-top: -65px;
+}
+
+.itens-menu
+{
+    color: rgb(234, 227, 227);
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+}
+
+.menu
+{
+    background-color: rgba(24, 36, 86, 0.916);
+    width: 300px;
+    height: 700px;
+    align-items: center;
+    margin-left: 1100px;
+    margin-top: 10px;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: white;
+}
+
+#texto
+{
+    font-size: 20px;
+}
+
+.quemsoueu
+{
+    background-color: rgba(24, 36, 86, 0.916);
+    width: 1000px;
+    height: 245px;
+    margin-top: -630px;
+    margin-left: 40px;
+    color: white;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 60px;
+}
+
+.vidaacademicaeprofissional
+{
+    background-color: rgba(24, 36, 86, 0.916);
+    width: 1000px;
+    height: 340px;
+    margin-top: -40px;
+    margin-left: 40px;
+    color: white;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.links
+{
+    text-align: center;
+    background-color: rgb(157, 186, 213);
+    margin-left: 630px;
+    font-size: 15px;
+}
+
+#linkedin
+{
+    width:50px;
+    height: 50px;
+    margin-left: 75px;
+}
+
+#github
+{
+    width: 50px;
+    height: 50px;
+    margin-left: 180px;
+    margin-top: -50px;
+}
+
+.tituloh1
+{
+    font-size: 25px;
+}
+
+.img
+{
+    border-radius: 50%;
+}
+
+.a
+{
+    text-decoration: none;
+}
+
+fieldset
+{
+  width: 300px;
+  height: 420px;
+  margin-left: 400px;
+  background-color: rgba(202, 202, 206, 0.84);
+  color: rgb(0, 0, 0);
+  align-items: center;
+  margin-top: -600px;
+  border-radius: 20px;
+  text-align: center;
+}
+
+#form
+{
+    background-color: black;
+}
+
+#tabela
+{
+    background-color: rgb(46, 88, 129);
+    margin-top: 30px;
+    margin-left: 60px;
+    font-size: 13px;
+    width: 180px;
+    height: 100px;
+}
+
+table
+{
+    border: 1px;
+}
+
+.mensagem
+{
+    resize: none;
+    max-width: 300px;
+}
+
+button
+{
+width: 100px;
+height: 30px;
+margin-left: 515px;
+margin-top: 15px;
+border-radius: 3px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p2
+{
+    font-size: 15px;
+}
